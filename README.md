@@ -9,10 +9,8 @@ The HMS T&L System is a multi-platform application designed to enhance the feedb
 ## Table of Contents
 - [Description](#description)
 - [Features](#features)
-- [Usage](#usage)
 - [Acknowledgments](#acknowledgments)
-- [Team Members](#Team Members and Responsibilities)
-- [Project Phases](#Project Phases)
+
 
 ## Features
 - **Mobile Application:**
