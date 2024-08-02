@@ -1,0 +1,67 @@
+Project Plan for HMS T&L System
+Start Date: 5 August 2024
+Back-end Completion: 27 September 2024
+Final Completion: 16 October 2024
+
+Team Members:
+JP
+Hendrik
+Renken
+
+Phase 1: Planning and Setup (5 August - 11 August)
+1. Project Initialization:
+
+JP: Set up our GitHub repository, create the main and develop branches, and kick things off with our project documentation (README, etc.).
+Hendrik: Get us organized on Trello, laying out our tasks and milestones to keep us on track.
+Renken: Finalize our tech stack decisions (React for the frontend, Spring Boot for the backend, PostgreSQL for our database) and set up the initial project structure.
+Phase 2: Backend Development (12 August - 27 September)
+2. API Design and Development:
+
+JP: Focus on user authentication and authorization – making sure login and user roles are secure.
+Hendrik: Work on the APIs for video upload, compression, and storage.
+Renken: Handle the APIs for assignment creation, listing, and feedback submission.
+3. Database Setup:
+
+JP: Design our database schema to keep everything organized.
+Hendrik: Set up and integrate the database with our backend.
+Renken: Implement the logic for storing and retrieving data.
+Phase 3: Frontend Development (28 September - 10 October)
+4. Web Application:
+
+JP: Create the lecturer interface for managing assignments, streaming videos, and giving feedback.
+Hendrik: Develop the admin interface for managing users and system settings.
+Renken: Build the student interface for uploading videos and viewing feedback.
+5. Mobile Application:
+
+JP: Implement video recording and upload functionality.
+Hendrik: Set up user authentication and assignment viewing.
+Renken: Develop the feedback viewing and notification features.
+Phase 4: Integration and Testing (11 October - 15 October)
+6. Integration:
+
+JP: Integrate the web app frontend with the backend APIs.
+Hendrik: Integrate the mobile app frontend with the backend APIs.
+Renken: Make sure all the parts work together smoothly.
+7. Testing:
+
+JP: Run unit tests on the backend components.
+Hendrik: Test the frontend components thoroughly.
+Renken: Conduct integration tests to ensure everything works as a whole.
+Phase 5: Deployment and Documentation (16 October)
+8. Deployment:
+
+JP: Set up CI/CD pipelines to automate our deployment process.
+Hendrik: Deploy our app to AWS.
+Renken: Optimize the database and file storage configurations for production.
+9. Documentation:
+
+JP: Write up the technical documentation for the backend.
+Hendrik: Document the frontend components.
+Renken: Create user manuals and setup guides to help others use our system.
+Phase 6: Final Review and Presentation (16 October)
+10. Final Review:
+
+All Members: Review the entire system, fix any last-minute bugs, and ensure everything is running smoothly.
+11. Presentation:
+
+All Members: Prepare and deliver our final project presentation, complete with a live demo of our system.
