@@ -28,7 +28,7 @@ The HMS T&L System is a multi-platform application designed to enhance the feedb
 To set up the HMS T&L System locally
 
 ## Acknowledgments
-This project is supported by the Human Movement Sciences Faculty at North-West University. Special thanks to all the contributors and stakeholders for their valuable input and feedback.
+This project is supported by the Human Movement Sciences Faculty at North-West University.
 
 ## Team Members and Responsibilities
 1. JP: Backend authentication, frontend lecturer interface, CI/CD setup, and backend documentation.
